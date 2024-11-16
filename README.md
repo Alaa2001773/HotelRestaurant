@@ -22,8 +22,3 @@ This project is a **Restaurant Reservation Management System** built using **ASP
 - **Database**: Entity Framework Core with SQL Server
 - **API Documentation**: Swagger
 - **Dependency Injection** for repository pattern.
-
-## Installation
-
-1. **Clone the Repository**:
-https://localhost:44397/swagger
